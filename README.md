@@ -11,7 +11,7 @@
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MosFazli
+[1]: https://twitter.com/Carlos_CrlsPrm
 [2]: https://www.linkedin.com/in/mosfazli/
 [4]: https://telegram.me/MosFazli
 </h1>        Click to go...</h1>
@@ -29,7 +29,7 @@
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=highcontrast" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=highcontrast" />
  </div>
 <!---
 CrlsPrm/CrlsPrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
