@@ -28,7 +28,7 @@
 - 📈 My github stats
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=highcontrast" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=highcontrast" />
   <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=highcontrast" />
  </div>
 <!---
