@@ -12,9 +12,9 @@
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://twitter.com/Carlos_CrlsPrm
-[2]: https://www.linkedin.com/in/mosfazli/
+[2]: https://www.linkedin.com/in/carlos-ra%C3%BAl-primo-sapillado-b2b86624b/
 [4]: https://telegram.me/MosFazli
-</h1>        Click to go...</h1>
+</h1>        - Click to go...</h1>
 
 <br>
 
