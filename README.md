@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <br>
-<h2>Social Networks</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
 
@@ -15,7 +14,7 @@
 [1]: https://twitter.com/MosFazli
 [2]: https://www.linkedin.com/in/mosfazli/
 [4]: https://telegram.me/MosFazli
-
+</h1>click to go...</h1>
 
 <br>
 
