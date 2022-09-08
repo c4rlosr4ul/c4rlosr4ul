@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,vim,latex,fortran,py,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,vim,neovim,latex,fortran,py,ai,ps" />
   </a>
 </p>
 - 📈 My github stats
