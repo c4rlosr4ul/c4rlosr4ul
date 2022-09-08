@@ -28,8 +28,8 @@
 - 📈 My github stats
 
 <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=highcontrast" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=highcontrast" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=contrast" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=contrast" />
  </div>
 <!---
 CrlsPrm/CrlsPrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
