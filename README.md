@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Carlos Raúl
 - 👀 I’m interested in programmming, computer's science and physics
-- 🌱 I’m currently learning Latex, Phython, Fortran 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <br>
 <h4> Click to go...<h4> 
