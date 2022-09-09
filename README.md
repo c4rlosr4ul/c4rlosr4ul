@@ -15,7 +15,7 @@
 [4]: https://telegram.me/Carlos_Raul_CrlsRl
   
 <br>
-- Languages and tools:  
+- Languages and tools I use:  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,vim,neovim,latex,fortran,py,ai,ps" />
