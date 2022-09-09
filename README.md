@@ -8,7 +8,7 @@
   
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://thumbs2.imgbox.com/5a/61/XZYQvDmR_t.png
+[3.2]: https://orcid.org/assets/vectors/orcid.logo.icon.svg
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
   
 [1]: https://twitter.com/Carlos_CrlsPrm
