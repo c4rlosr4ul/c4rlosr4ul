@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Carlos Raúl
-- 👀 I’m interested in porgrammming, computer's science and physics
+- 👀 I’m interested in programmming, computer's science and physics
 - 🌱 I’m currently learning Latex, Phython, Fortran 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <br>
-<h3> Click to go...<h3> 
+<h4> Click to go...<h4> 
 
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
@@ -30,8 +30,10 @@
 - 📈 My github stats
 
 <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=dark" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=dark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=dark" />
+ </div>
+ <div align="center">
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=dark" />
  </div>
 <!---
 CrlsPrm/CrlsPrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
