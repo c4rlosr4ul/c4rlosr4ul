@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @crlsrl
-- 👀 I’m interested in Computer's science and physics
+- 👋 Hi, I’m Carlos Raúl
+- 👀 I’m interested in porgrammming, computer's science and physics
 - 🌱 I’m currently learning Latex, Phython, Fortran 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <br>
-
+</h1>  - Click to go...</h1> 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
@@ -13,8 +13,8 @@
 
 [1]: https://twitter.com/Carlos_CrlsPrm
 [2]: https://www.linkedin.com/in/carlos-ra%C3%BAl-primo-sapillado-b2b86624b/
-[4]: https://telegram.me/MosFazli
-</h1>        - Click to go...</h1>
+[4]: https://telegram.me/Carlos_Raul_CrlsRl
+
 
 <br>
 
