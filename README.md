@@ -12,7 +12,7 @@
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
   
 [1]: https://twitter.com/Carlos_CrlsPrm
-[2]: https://www.linkedin.com/in/carlos-ra%C3%BAl-primo-sapillado-b2b86624b/
+[2]: https://www.linkedin.com/in/carlos-ra%C3%BAl-p-s-b2b86624b/
 [3]: https://orcid.org/0000-0003-2164-5265
 [4]: https://telegram.me/Carlos_Raul_CrlsRl
   
