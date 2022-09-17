@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Carlos Raúl
 - 👀 I’m interested in programmming, computer's science and physics
 - 📫 How to reach me ...
-<br>
-<h4> Click to go...<h4> 
+
+Click to go... 
   
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![ORCID][3.2]][3] [![Telegram][4.2]][4]
   
@@ -16,7 +16,7 @@
 [3]: https://orcid.org/0000-0003-2164-5265
 [4]: https://telegram.me/Carlos_Raul_CrlsRl
   
-<br>
+
 - Languages and tools I use:  
 <p align="center">
   <a href="https://skillicons.dev">
