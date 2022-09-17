@@ -29,7 +29,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=dark" />
  </div>
  <div align="center">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=dark" />
+  <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrlsPrm&hide=html&layout=compact&theme=dark" />
  </div>
 <!---
 CrlsPrm/CrlsPrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
