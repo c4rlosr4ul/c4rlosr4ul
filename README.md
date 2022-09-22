@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Carlos Raúl
-- 👀 I’m interested in programmming, computer's science and physics
+- 👋 Hi, I’m Carlos Raúl, 👀 I’m interested in programmming, computer's science and physics
 - 📫 How to reach me ...
 
 Click to go... 
