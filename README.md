@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Carlos Raúl, 👀 I’m interested in programmming, computer's science and physics
+- 👋 Hi, I’m Carlos Raúl, 👀 I’m interested in programmming, computer's science, maths and physics
 - 📫 How to reach me ...
 
-Click to go... 
+Click to go... $C_j=O_uO$
   
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![ORCID][3.2]][3] [![Telegram][4.2]][4]
   
