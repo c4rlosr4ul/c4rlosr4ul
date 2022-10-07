@@ -7,7 +7,7 @@ Click to go...
   
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://www.facebook.com/photo/?fbid=1606262606442732&set=a.182073605528313&__cft__[0]=AZXvpQR1pU-cngk-juqWU-mvTxVhpCcszQBBgbxuJjQ4nYrHIMbD4b1LbLHE6QWCFjhPwLlGRONBNWmUDrWiJCtae5aD9FetRDBUkBcZgDDObmAle-8pERqrHoL9jZOrGBP6hmy-cB24kIsDn7izsUyD5QY2pRYMcWL9Xr-JqdzYbg&__tn__=EH-R
+[3.2]: https://scontent.flim20-1.fna.fbcdn.net/v/t39.30808-6/302436311_1606262603109399_4920238760579808178_n.jpg?stp=cp0_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=s0Dp5RGlxvIAX_IZkNq&_nc_ht=scontent.flim20-1.fna&oh=00_AT-HiHYgoGa_gKUUyUZbLfUM8ttPXEa6QXkvN7Vq0H_cMQ&oe=6343A41E
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
   
 [1]: https://twitter.com/Carlos_CrlsPrm
