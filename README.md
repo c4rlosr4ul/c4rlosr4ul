@@ -10,7 +10,7 @@ Click to go...
 [3.2]: https://scontent.flim20-1.fna.fbcdn.net/v/t39.30808-6/302436311_1606262603109399_4920238760579808178_n.jpg?stp=cp0_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=s0Dp5RGlxvIAX_IZkNq&_nc_ht=scontent.flim20-1.fna&oh=00_AT-HiHYgoGa_gKUUyUZbLfUM8ttPXEa6QXkvN7Vq0H_cMQ&oe=6343A41E
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
   
-[1]: https://twitter.com/Carlos_CrlsPrm
+[1]: https://twitter.com/carlosraulps
 [2]: https://www.linkedin.com/in/carlos-ra%C3%BAl-p-s-b2b86624b/
 [3]: https://orcid.org/0000-0003-2164-5265
 [4]: https://telegram.me/Carlos_Raul_CrlsRl
