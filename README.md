@@ -15,7 +15,7 @@ Click to go...
 [3]: https://orcid.org/0000-0003-2164-5265
 [4]: https://telegram.me/Carlos_Raul_CrlsRl
 
-<img id="orcid_image" src="https://avatars.githubusercontent.com/u/1122775?s=200&v=4" width="600" height="600" alt="ORCID" style="display:none;">
+<img id="orcid_image" src="https://avatars.githubusercontent.com/u/1122775?s=200&v=4" width="100" height="100" alt="ORCID" style="display:none;">
 
 - Languages and tools I use:  
 <p align="center">
