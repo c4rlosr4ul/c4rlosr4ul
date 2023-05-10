@@ -1,4 +1,4 @@
-👋 Hi, I’m **Carlos Raúl**! I'm interested in programming, computer science, maths, and physics. $C_j=O_uO$
+ Hi, I’m **Carlos Raúl**! I'm interested in programming, computer science, maths, and physics. $C_j=O_uO$
 
 📫 **How to reach me:**
 
