@@ -50,8 +50,6 @@ end program ComputationalPhysicist
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
 </a>
 
-I'm interested in programming, computer science, maths, and physics. $C_j=O_uO$
-
 ## 📫 How to reach me:
 
 <a href="https://twitter.com/carlosraulps">
