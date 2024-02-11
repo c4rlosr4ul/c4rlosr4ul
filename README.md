@@ -6,13 +6,16 @@
 program ComputationalPhysicist
     implicit none
     character(len=20) :: name
-    character(len=20), dimension(2) :: language_spoken
+    character(len=30), dimension(4) :: languages 
 
     name = 'Carlos Raúl'
-    language_spoken(1) = 'es_ES'
-    language_spoken(2) = 'en_US'
+    languages(1) = 'Spanish (Native C2)' 
+    languages(2) = 'English (B2)'        
+    languages(3) = 'Portuguese (B1)'
+    languages(4) = 'Russian (A2)'
 
     call say_hi(name)
+    call list_languages(languages)
 
 contains
 
