@@ -10,8 +10,8 @@ program ComputationalPhysicist
 
     name = 'Carlos Raúl'
     languages(1) = 'Spanish (Native C2)' 
-    languages(2) = 'English (B2)'        
-    languages(3) = 'Portuguese (B1)'
+    languages(2) = 'English (B1)'        
+    languages(3) = 'Portuguese (B2)'
     languages(4) = 'Russian (A2)'
 
     call say_hi(name)
