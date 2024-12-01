@@ -9,7 +9,7 @@ program ComputationalPhysicist
     character(len=30), dimension(4) :: languages 
 
     name = 'Carlos Raúl'
-    languages(1) = 'Spanish (Native C2)' 
+    languages(1) = 'Spanish (Native)' 
     languages(2) = 'English (B1)'        
     languages(3) = 'Portuguese (B2)'
     languages(4) = 'Russian (A2)'
