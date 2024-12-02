@@ -53,6 +53,12 @@ end program ComputationalPhysicist
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
 </a>
 
+
+<a href="https://github.com/c4rlosr4ul/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
+</a>
+
+
 ## 📫 How to reach me:
 
 <a href="https://twitter.com/carlosraulps">
@@ -60,10 +66,6 @@ end program ComputationalPhysicist
 </a>
 <a href="https://www.linkedin.com/in/carlos-ra%C3%BAl-p-s-b2b86624b/">
   <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30">
-</a>
-
-<a href="https://github.com/c4rlosr4ul/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
 </a>
 
 
