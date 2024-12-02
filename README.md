@@ -49,7 +49,9 @@ end program ComputationalPhysicist
 ![](https://img.shields.io/badge/Tools-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Projects
-k
+ <a href="https://github.com/c4rlosr4ul/fortran-numerical-methods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
+</a>
 
 ## 📫 How to reach me:
 
